@@ -1,5 +1,7 @@
 # Disco Elysium Style Render Pipeline
 
+![Screenshot](screenshot/screen.png)
+
 This Unity project implements a custom render pipeline designed to achieve graphics similar to those in the game *Disco Elysium*.
 
 ## Inspiration
