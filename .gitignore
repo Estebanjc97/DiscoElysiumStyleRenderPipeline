@@ -1,0 +1,44 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+obj/
+Logs/
+MemoryCaptures/
+Recordings/
+
+# User-specific
+UserSettings/
+.vsconfig
+
+# Build output
+Build/
+Builds/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+
+# Caches
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
